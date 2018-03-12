@@ -24,3 +24,6 @@ vignettes/*.pdf
 *.knit.md
 test.csv
 train.csv
+gender_submission.csv
+xgb_pred.csv
+xgb_pred_with_tuning.csv
